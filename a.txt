@@ -3,10 +3,6 @@ add b
 add c
 new master ext
 
-sfsdfds
-
-dgd
 fg
 
-fdgdfgdfgdfg
-new dsfkjdsflkj df text
+new text
